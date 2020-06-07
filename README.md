@@ -1,5 +1,10 @@
 ### IBM-zOS-MTM19
 Mainframe Programming on z/Os
+
+- **Part 1**: Learn the basics of navigation, files and programs.
+- **Part 2**: Practice programming languages, operating systems and technologies.
+- **Part 3**: Participate in real-world challenges.
+
 #### List of commands 
 
 
