@@ -46,4 +46,4 @@ Following is a list of terms
 - **Nibble**: 4 Bits used to encode a hexadecimal digit (0 - F)
 - **Byte**: 8 Bits used to encode a single character
 
-To start-over Part-3 simply submit `tso sub 'zos.public.jcl(part3)'`. This will delete all existing submission so that you can start over.
+To start-over Part-3 simply submit `tso sub 'zos.public.jcl(part3)'`. This will delete all existing submissions
