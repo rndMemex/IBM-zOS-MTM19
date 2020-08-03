@@ -45,3 +45,5 @@ Following is a list of terms
 - **Bit**: a binary state either 0 or 1
 - **Nibble**: 4 Bits used to encode a hexadecimal digit (0 - F)
 - **Byte**: 8 Bits used to encode a single character
+
+To start-over Part-3 simply submit `tso sub 'zos.public.jcl(part3)'`. This will delete all existing submission so that you can start over.
