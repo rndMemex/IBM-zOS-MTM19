@@ -13,6 +13,7 @@ Following are the commands needed to complete the programming contest successful
 - **cols**: display columns
 - **e**: edit
 - **end;return**: to save your work and return to `ISPF Primary Option Menu`
+- **ex** for execute
 - **dslisto`p2.output`**: to list output associated with your `ID`
 - **hex on**: turn on hexagonal representation
 - **i**: return assigned attributes information to display
