@@ -46,4 +46,14 @@ Following is a list of terms
 - **Nibble**: 4 Bits used to encode a hexadecimal digit (0 - F)
 - **Byte**: 8 Bits used to encode a single character
 
+
+#### Part 2:
+
+To list the ouput of Part 2: 
+- enter `dslist p2.output` on the command line 
+- browse your submissions by tabbing and typing `b` next to `Z#####.P2.OUTPUT` ( where `Z#####` is your ID)
+- navigate to challenge # by tabbing on the challenge, typing `s` and entering
+
+#### Part 3:
+
 To start-over Part-3 simply submit `tso sub 'zos.public.jcl(part3)'`. This will delete all existing submissions
