@@ -7,7 +7,7 @@
 
 Following are the commands needed to complete the programming contest successfully.
 
-- **b**: to browse
+- **b**: to view or browse
 - **c**: copy one line
 - **cc**: copy multiple lines (e.g. tab on line `'00001'` and type cc to have `'cc001`, tab on line `'00031'` to have `'cc 31'`. This will copy the content from line `00001` to line `00031`)
 - **cols**: display columns
