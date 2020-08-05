@@ -46,6 +46,7 @@ Following is a list of terms
 - **Bit**: a binary state either 0 or 1
 - **Nibble**: 4 Bits used to encode a hexadecimal digit (0 - F)
 - **Byte**: 8 Bits used to encode a single character
+- **SYSLOG**:  z/OS System Log
 
 ### REXX for z/OS System Engineering
 
