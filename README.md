@@ -48,6 +48,7 @@ Following is a list of terms
 - **Byte**: 8 Bits used to encode a single character
 - **SYSLOG**:  z/OS System Log
 - **SDSF**: System Display and Search Facility 
+- **ulog**: user log
 ### REXX for z/OS System Engineering
 
 - [An Introduction to REXX Syntax](https://en.wikibooks.org/wiki/Rexx_Programming/Introduction/syntax)
