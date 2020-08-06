@@ -47,7 +47,7 @@ Following is a list of terms
 - **Nibble**: 4 Bits used to encode a hexadecimal digit (0 - F)
 - **Byte**: 8 Bits used to encode a single character
 - **SYSLOG**:  z/OS System Log
-
+- **SDSF**: System Display and Search Facility 
 ### REXX for z/OS System Engineering
 
 - [An Introduction to REXX Syntax](https://en.wikibooks.org/wiki/Rexx_Programming/Introduction/syntax)
