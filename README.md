@@ -28,6 +28,7 @@ Following are the commands needed to complete the programming contest successful
 - **source ascii**: change display output from EBCDIC to ASCII
 - **submit; =sd; st**: submit JCL job to the system for processing. Jump to SDSF. Check JCL jobs status using SDSF
 - **v**: view content of a job
+- **ulog close**: terminate and purge previous user log content
 - **x'F0'** short hexadecimal for 0
 - **?**: review job output
 
